@@ -7,6 +7,7 @@ h1 {
     text-align: center;
     color: #ffffff;
     font-size: 72px;
+    margin-top: 95px;
 }
 
 h2 {
@@ -80,6 +81,8 @@ button {
     border-radius: 50%;
     color: #ffffff;
     transition: 0.4s;
+    width: 45px;
+    height: 45px;
 }
 
 .contact:hover {
